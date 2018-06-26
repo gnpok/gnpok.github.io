@@ -11,6 +11,7 @@ author: cossete
 
 ## Request 和Response
 > Request：不同的http方法表达不同的行为：
+
 - GET（SELECT) : 取出资源
 - POST（CREATE）:  新建资源
 - PUT（UPDATE）： 更新资源（客户端提供完成资源数据）
