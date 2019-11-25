@@ -4,10 +4,10 @@ title:  "Redis 的 keyspace notification（键空间通知）实践"
 categories: Redis
 tags:  Redis
 author: cossete
-
 ---
 
-[TOC]
+* content
+{:toc}
 
 [文章输入摘录，吸取别人长处](https://www.imooc.com/article/10431)
 
