@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RESTful API规范"
-categories: API RESTful
+categories: API RESTful PHP
 tags:  RESTful 
 author: cossete
 ---
